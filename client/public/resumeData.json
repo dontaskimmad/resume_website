@@ -15,8 +15,8 @@
       "state":"BC",
       "zip": "V6R2P3"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "172.31.32.20",
+    "resumedownload":"https://gofile.io/d/TCWynG",
     "social":[
       {
         "name":"facebook",
@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I have experience with various languages from my work on personal and school projects.",
     "education":[
       {
         "school":"UBC",
