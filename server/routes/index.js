@@ -24,7 +24,6 @@ router.post("/contactForm", (req, res, next) => {
       pass: process.env.PASSWORD,
     },
   });
-  console.log(process.env.EMAIL);
   var mailOptions = {
     from: process.env.EMAIL,
     to: process.env.RECEIVER,

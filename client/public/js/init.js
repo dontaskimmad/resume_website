@@ -147,10 +147,9 @@ jQuery(document).ready(function ($) {
       contactSubject +
       "&contactMessage=" +
       contactMessage;
-    var url = "http://localhost:5000/";
     $.ajax({
       type: "POST",
-      url: url + "index/contactForm",
+      url: "/index/contactForm",
       data: data,
       success: function () {
         // Message was sent
