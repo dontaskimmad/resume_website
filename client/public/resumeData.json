@@ -113,6 +113,12 @@
         "category":"A sample project of using a GAN to generate numbers.",
         "image":"dcgan.gif",
         "url":"https://github.com/dontaskimmad/GAN_test"
+      },
+      {
+        "title":"Agronome Agriculture",
+        "category":"A service for Kenyan farmers to access crop and geographical information usefull to crop production. Final product is still in development.",
+        "image":"Agronome.jpg",
+        "url":"https://agronome.co.ke/"
       }
     ]
   }
