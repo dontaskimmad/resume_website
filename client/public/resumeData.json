@@ -52,7 +52,7 @@
         "school":"UBC",
         "degree":"Computer Science",
         "graduated":"August 2020",
-        "description":"I majored in Computer Science through a BA, which allowed me to do Political Sciences, History and Philosophy alongside my Computer Science Courses"
+        "description":"I majored in Computer Science through a BA, which allowed me to study Political Sciences, History and Philosophy alongside my Computer Science Courses"
       }
     ],
     "work":[
@@ -60,13 +60,13 @@
         "company":"Agronome Farming Software",
         "title":"Technical Lead",
         "years":"May 2010 - August 2020",
-        "description":"Setting up Agricultural an website for a client in Kenya. The website provided crop and geographic information for farmers. Involved setting up webhosting, creating React Frontend, Nodejs Backend and Postgresql database."
+        "description":"Setting up an Agricultural website for a client in Kenya. The website provided crop and geographic information for farmers. Involved setting up webhosting, creating a React Frontend, Nodejs Backend and Postgresql database."
       },
       {
         "company":"AC2O",
         "title":"Machine Learning Engineer",
         "years":"Novermber 2019 - Present",
-        "description":"Working with physics, engineering and other computer science students to develop an atmosphere research experiment. Personal focus was on creating ML model for segmenting and classifying images gathered. Project is on temporary hold due to pandemic."
+        "description":"Working with physics, engineering and other computer science students to develop an atmosphere research experiment. Personal focus was on creating a ML model for segmenting and classifying images gathered. Project is on temporary hold due to pandemic."
       },
       {
         "company":"UBC Okanagan",
