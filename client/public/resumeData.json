@@ -3,9 +3,9 @@
     "name":"Evan Warburton",
     "description":"I am a recent computer science graduate who is interested in space technology as well as Machine Learning and AI",
     "image":"profilepic.jpg",
-    "bio":"I have a broad range of interests including science fiction, international relations and history. I think AI and machine learning provide huge potential for jumps in technology in practically any field, and I am intersted in getting involved with the industry.",
+    "bio":"I have a broad range of interests including science fiction, international relations and history. I think AI and machine learning provide huge potential for jumps in technology in practically any field, and I am interested in getting involved with the industry.",
     "contactmessage":"Feel free to contact me about my previous projects or for any other information about myself.",
-    "email": "123onevan@live.com",
+    "email": "evanwarburton17@gmail.com",
     "phone": "778-874-3124",
     "github":"https://github.com/dontaskimmad",
     "project":"https://github.com/dontaskimmad/resume_website",
@@ -52,26 +52,26 @@
         "school":"UBC",
         "degree":"Computer Science",
         "graduated":"August 2020",
-        "description":"I majored in Computer Science through a BA, which allowed me to study Political Sciences, History and Philosophy alongside my Computer Science Courses"
+        "description":"I majored in Computer Science through a BA, which allowed me to study Political Science, History and Philosophy alongside my Computer Science Courses"
       }
     ],
     "work":[
       {
         "company":"Agronome Farming Software",
         "title":"Technical Lead",
-        "years":"May 2010 - August 2020",
+        "years":"May 2020 - August 2020",
         "description":"Setting up an Agricultural website for a client in Kenya. The website provided crop and geographic information for farmers. Involved setting up webhosting, creating a React Frontend, Nodejs Backend and Postgresql database."
       },
       {
         "company":"AC2O",
         "title":"Machine Learning Engineer",
-        "years":"Novermber 2019 - Present",
+        "years":"November 2019 - Present",
         "description":"Working with physics, engineering and other computer science students to develop an atmosphere research experiment. Personal focus was on creating a ML model for segmenting and classifying images gathered. Project is on temporary hold due to pandemic."
       },
       {
         "company":"UBC Okanagan",
         "title":"Research Assistant",
-        "years":"January 2019 - Semptember 2019",
+        "years":"January 2019 - September 2019",
         "description":"Research on preemptively predicting failures or attacks on a cyber physical system using random forests."
       }
     ],
@@ -116,7 +116,7 @@
       },
       {
         "title":"Agronome Agriculture",
-        "category":"A service for Kenyan farmers to access crop and geographical information usefull to crop production. Final product is still in development.",
+        "category":"A service for Kenyan farmers to access crop and geographical information useful to crop production. Final product is still in development.",
         "image":"Agronome.jpg",
         "url":"https://agronome.co.ke/"
       }
