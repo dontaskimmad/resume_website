@@ -14,7 +14,7 @@ services:
       - ./client:/usr/src/app
   backend:
     build:
-      context: ./server
+      context: ./server--
       dockerfile: Dockerfile
     image: server
     ports:
